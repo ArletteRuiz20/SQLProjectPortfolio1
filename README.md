@@ -1,5 +1,5 @@
 # SQLProjectPortfolio1
-This is my first SQL project involving Data Cleaning for Company layoffs as an example for this project.
+This is my SQL project involving Data Cleaning for Company layoffs as an example for this project.
 
 Using the layoffs dataset I built a SQL data cleaning pipeline on the different global layoffs.
 I created staging tables to preserve raw data, removed duplicates with window functions, standardized inconsistent fields (industries, dates, countries).
